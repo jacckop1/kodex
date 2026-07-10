@@ -104,7 +104,7 @@
     {
       "no": 11,
       "hash": "47fa1fb313f75bde85c9819d166862d0c40b52019fdab18fd4ad02cf625cf219",
-      "active": true,
+      "active": false,
       "subscriberName": "بالورينا",
       "phoneNumber": "@ririi224",
       "deviceName": "iPhone",
@@ -113,7 +113,7 @@
     {
       "no": 12,
       "hash": "adc4edc133ea0731dc742acdf42737cbe0db1ed20d90b86826fc037256e0a430",
-      "active": true,
+      "active": false,
       "subscriberName": "00008030-001614810213802E",
       "phoneNumber": "@ck_58",
       "deviceName": "iPhone ",
