@@ -122,10 +122,10 @@
     {
       "no": 13,
       "hash": "3fb8ee05d68be799d9bb368c95ea4c839b36390197bcdfad37cf22473bed0680",
-      "active": false,
-      "subscriberName": "",
+      "active": true,
+      "subscriberName": "محمد",
       "phoneNumber": "",
-      "deviceName": "",
+      "deviceName": "iPhone",
       "expiresAt": "2027-06-29T23:59:59Z"
     },
     {
