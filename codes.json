@@ -131,7 +131,7 @@
     {
       "no": 14,
       "hash": "596da7a3ee4da0c51a9db18fc1ecbe990f2e8de0e93e84a17e4719966707f275",
-      "active": true,
+      "active": false,
       "subscriberName": "عباس العطية",
       "phoneNumber": "@johnsnow963",
       "deviceName": "iPhone 13",
@@ -140,11 +140,11 @@
     {
       "no": 15,
       "hash": "9a7d756975c736f47488d8a3cf8066f701a38f07416144bdee0042cd85a0ef60",
-      "active": false,
-      "subscriberName": "",
-      "phoneNumber": "",
-      "deviceName": "",
-      "expiresAt": "2027-06-29T23:59:59Z"
+      "active": true,
+      "subscriberName": "Kameran Saeed",
+      "phoneNumber": "@K3meran",
+      "deviceName": "iPhone",
+      "expiresAt": "2027-07-24T23:59:59Z"
     },
     {
       "no": 16,
