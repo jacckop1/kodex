@@ -95,7 +95,7 @@
     {
       "no": 10,
       "hash": "8fb158eb3ab81b15a25d75f54551504df934c455bf415304b897ffa36e3ef1f7",
-      "active": true,
+      "active": false,
       "subscriberName": "عبدالرحمن تيست",
       "phoneNumber": "@p_6iq",
       "deviceName": "iPhone 11 ",
@@ -140,7 +140,7 @@
     {
       "no": 15,
       "hash": "9a7d756975c736f47488d8a3cf8066f701a38f07416144bdee0042cd85a0ef60",
-      "active": true,
+      "active": false,
       "subscriberName": "Kameran Saeed",
       "phoneNumber": "@K3meran",
       "deviceName": "iPhone",
@@ -149,7 +149,7 @@
     {
       "no": 16,
       "hash": "436e02ff8ed12d6a4c0399366e1833fdbe176134883e11a9e9f6bffd2fb53a64",
-      "active": true,
+      "active": false,
       "subscriberName": "Haitham",
       "phoneNumber": "@Oo1nb",
       "deviceName": "iPad",
@@ -158,7 +158,7 @@
     {
       "no": 17,
       "hash": "dfcea314557e1d406733ec98881a3bd53b01e2be588bfa7ff6c6f2fe3bf0d01a",
-      "active": true,
+      "active": false,
       "subscriberName": "zayn",
       "phoneNumber": "zayley",
       "deviceName": "iphone",
