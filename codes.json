@@ -140,7 +140,7 @@
     {
       "no": 15,
       "hash": "9a7d756975c736f47488d8a3cf8066f701a38f07416144bdee0042cd85a0ef60",
-      "active": false,
+      "active": true,
       "subscriberName": "Kameran Saeed",
       "phoneNumber": "@K3meran",
       "deviceName": "iPhone",
