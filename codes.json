@@ -95,7 +95,7 @@
     {
       "no": 10,
       "hash": "8fb158eb3ab81b15a25d75f54551504df934c455bf415304b897ffa36e3ef1f7",
-      "active": true,
+      "active": false,
       "subscriberName": "عبدالرحمن تيست",
       "phoneNumber": "@p_6iq",
       "deviceName": "iPhone 11 ",
@@ -140,7 +140,7 @@
     {
       "no": 15,
       "hash": "9a7d756975c736f47488d8a3cf8066f701a38f07416144bdee0042cd85a0ef60",
-      "active": true,
+      "active": false,
       "subscriberName": "Kameran Saeed",
       "phoneNumber": "@K3meran",
       "deviceName": "iPhone",
@@ -167,7 +167,7 @@
     {
       "no": 18,
       "hash": "3e252fe2780c06ae6c576e278c18a0a9253886aefec272d8316f6a07fb540832",
-      "active": true,
+      "active": false,
       "subscriberName": "المشتركين الثلاث",
       "phoneNumber": "@gggqq4",
       "deviceName": "IPhone",
@@ -176,7 +176,7 @@
     {
       "no": 19,
       "hash": "a8e86995c936ae02fe7882e4d12961a33c68ccf5e953aa318a2b883aa824bbdb",
-      "active": true,
+      "active": false,
       "subscriberName": "dr mohammed",
       "phoneNumber": "00008120-001E5DA636E0201E",
       "deviceName": "iPhone 14pro Max",
