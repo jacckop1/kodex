@@ -185,11 +185,11 @@
     {
       "no": 20,
       "hash": "73e23bad1c91f0746514a36b78cbad59efd4991c9f8b0d3ecaaf21aca6ab7ddf",
-      "active": false,
-      "subscriberName": "",
-      "phoneNumber": "",
-      "deviceName": "",
-      "expiresAt": "2027-06-29T23:59:59Z"
+      "active": true,
+      "subscriberName": "saleh",
+      "phoneNumber": "@kld_cr7",
+      "deviceName": "iPhone 11",
+      "expiresAt": "2027-07-29T23:59:59Z"
     },
     {
       "no": 21,
